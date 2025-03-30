@@ -5,10 +5,11 @@ Noun ;
 
 LEXICON Noun
 
+gulb N2dekl;
 sun N2dekl;
 
 lemur N1dekl;
-cilv N1dekl;
+diplom N1dekl;
 televizor N1dekl;
 kaķ N2dekl;
 dzen N2dekl;
